@@ -109,7 +109,7 @@ export const NavLink = styled(Link)`
   }
 `;
 
-export const NavItemBtn = styled.li`
+export const NavItemBtn = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
