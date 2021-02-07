@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-styled-comp-yt-tutorial/static/js/main.9db16bd1.chunk.js",
-    "main.js.map": "/react-styled-comp-yt-tutorial/static/js/main.9db16bd1.chunk.js.map",
+    "main.js": "/react-styled-comp-yt-tutorial/static/js/main.f9120b74.chunk.js",
+    "main.js.map": "/react-styled-comp-yt-tutorial/static/js/main.f9120b74.chunk.js.map",
     "runtime-main.js": "/react-styled-comp-yt-tutorial/static/js/runtime-main.4517cd57.js",
     "runtime-main.js.map": "/react-styled-comp-yt-tutorial/static/js/runtime-main.4517cd57.js.map",
     "static/js/2.f24548a9.chunk.js": "/react-styled-comp-yt-tutorial/static/js/2.f24548a9.chunk.js",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.4517cd57.js",
     "static/js/2.f24548a9.chunk.js",
-    "static/js/main.9db16bd1.chunk.js"
+    "static/js/main.f9120b74.chunk.js"
   ]
 }
