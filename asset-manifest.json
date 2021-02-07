@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-styled-comp-yt-tutorial/static/js/main.2bec7681.chunk.js",
-    "main.js.map": "/react-styled-comp-yt-tutorial/static/js/main.2bec7681.chunk.js.map",
+    "main.js": "/react-styled-comp-yt-tutorial/static/js/main.d0c63781.chunk.js",
+    "main.js.map": "/react-styled-comp-yt-tutorial/static/js/main.d0c63781.chunk.js.map",
     "runtime-main.js": "/react-styled-comp-yt-tutorial/static/js/runtime-main.4517cd57.js",
     "runtime-main.js.map": "/react-styled-comp-yt-tutorial/static/js/runtime-main.4517cd57.js.map",
-    "static/js/2.a3120418.chunk.js": "/react-styled-comp-yt-tutorial/static/js/2.a3120418.chunk.js",
-    "static/js/2.a3120418.chunk.js.map": "/react-styled-comp-yt-tutorial/static/js/2.a3120418.chunk.js.map",
+    "static/js/2.a4819a4f.chunk.js": "/react-styled-comp-yt-tutorial/static/js/2.a4819a4f.chunk.js",
+    "static/js/2.a4819a4f.chunk.js.map": "/react-styled-comp-yt-tutorial/static/js/2.a4819a4f.chunk.js.map",
     "index.html": "/react-styled-comp-yt-tutorial/index.html",
-    "static/js/2.a3120418.chunk.js.LICENSE.txt": "/react-styled-comp-yt-tutorial/static/js/2.a3120418.chunk.js.LICENSE.txt",
+    "static/js/2.a4819a4f.chunk.js.LICENSE.txt": "/react-styled-comp-yt-tutorial/static/js/2.a4819a4f.chunk.js.LICENSE.txt",
     "static/media/profile.jpg": "/react-styled-comp-yt-tutorial/static/media/profile.8a701d40.jpg",
     "static/media/svg-1.svg": "/react-styled-comp-yt-tutorial/static/media/svg-1.c9c88a21.svg",
     "static/media/svg-2.svg": "/react-styled-comp-yt-tutorial/static/media/svg-2.882a2cd5.svg",
@@ -15,7 +15,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4517cd57.js",
-    "static/js/2.a3120418.chunk.js",
-    "static/js/main.2bec7681.chunk.js"
+    "static/js/2.a4819a4f.chunk.js",
+    "static/js/main.d0c63781.chunk.js"
   ]
 }
